@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Peter 👋
 
-<!--
-**pe-ia/pe-ia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who lives between Geneva and Copenhagen, currently studying **Data Science** at the IT University of Copenhagen.
 
-Here are some ideas to get you started:
+### 🌱 I’m currently working on
+- A product with my co-founder [Nicolas](https://github.com/niclejeune): [cheap.voyage](https://cheap.voyage)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 Course Notes
+#### 3rd Semester
+- [Machine Learning](https://github.com/pe-ia/Machine-Learning-Notes)
+
+#### 2nd Semester
+- [Algorithms & Data Structures](https://github.com/pe-ia/Algorithms-Data-Structures-Exam-Notes)
+- [Applied Statistics](https://github.com/pe-ia/Applied-Statistics-2024-Exam-Notes)
+
+### 💻 Projects
+- [Flight Scraper](https://github.com/pe-ia/flights-exploration) - using Playwright
+- A paid product with >1000 DAU (ask me in person)
+
+### 🛠️ Skills
+- Data Science with Python and R
+- Software engineering with Java
+- Web development with various stacks, in JavaScript, TypeScript, and PHP (Laravel)
+- Project management
+
+### 📫 How to reach me
+- Email: [peter@gvacph.dev](mailto:peter@gvacph.dev)
+- Discord: `@the_thethe_the`
