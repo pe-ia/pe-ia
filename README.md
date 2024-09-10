@@ -21,7 +21,7 @@ I'm a developer who lives between Geneva and Copenhagen, currently studying **Da
 - Email: [peter@gvacph.dev](mailto:peter@gvacph.dev)
 - Discord: `@the_thethe_the`
 
-### 🤓 Skills
+### 🛠️ Skills
 
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=python,r,java,kotlin,js,ts,php)
