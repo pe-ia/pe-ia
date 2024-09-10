@@ -17,12 +17,20 @@ I'm a developer who lives between Geneva and Copenhagen, currently studying **Da
 - [Flight Scraper](https://github.com/pe-ia/flights-exploration) - using Playwright
 - A paid product with >1000 DAU (ask me in person)
 
-### 🛠️ Skills
-- Data Science with Python and R
-- Software engineering with Java
-- Web development with various stacks, in JavaScript, TypeScript, and PHP (Laravel)
-- Project management
-
 ### 📫 How to reach me
 - Email: [peter@gvacph.dev](mailto:peter@gvacph.dev)
 - Discord: `@the_thethe_the`
+
+### Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=python,r,java,kotlin,js,ts,php)
+
+#### Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,latex)
+
+#### Backend
+![Backend](https://skillicons.dev/icons?i=laravel,django,docker,postgres,mongodb)
+
+#### Software
+![Software](https://skillicons.dev/icons?i=idea,phpstorm,pycharm,vscode,ps,ai,pr)
