@@ -30,7 +30,7 @@ I'm a developer who lives between Geneva and Copenhagen, currently studying **Da
 ![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,latex)
 
 #### Backend
-![Backend](https://skillicons.dev/icons?i=laravel,django,docker,postgres,mongodb)
+![Backend](https://skillicons.dev/icons?i=nextjs,laravel,django,docker,postgres,mongodb)
 
 #### Software
 ![Software](https://skillicons.dev/icons?i=idea,phpstorm,pycharm,vscode,ps,ai,pr)
