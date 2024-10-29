@@ -7,6 +7,10 @@ I'm a developer who lives between Geneva and Copenhagen, currently studying **Da
 
 ### 📝 Course Notes
 
+#### 3rd Semester
+
+- [Machine Learning](https://github.com/pe-ia/Machine-Learning-Notes)
+
 #### 2nd Semester
 - [Algorithms & Data Structures](https://github.com/pe-ia/Algorithms-Data-Structures-Exam-Notes)
 - [Applied Statistics](https://github.com/pe-ia/Applied-Statistics-2024-Exam-Notes)
