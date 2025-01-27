@@ -9,7 +9,7 @@ I'm a developer who lives between Geneva and Copenhagen, currently studying **Da
 
 #### 3rd Semester
 
-- [Machine Learning](https://github.com/pe-ia/Machine-Learning-Notes)
+- [Machine Learning](https://github.com/pe-ia/machine-learning-topics)
 - [Network Analysis](https://quizlet.com/dk/992592950/network-analysis-overview-flash-cards/)
 
 #### 2nd Semester
