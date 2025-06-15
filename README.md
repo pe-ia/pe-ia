@@ -7,6 +7,10 @@ I'm a developer who lives between Geneva and Copenhagen, currently studying **Da
 
 ### 📝 Course Notes
 
+#### 4th Semester
+
+- [Data Visualisation and Data-driven Decision Making](https://quizlet.com/dk/1052343585/data-visualisation-and-data-driven-decision-making-flash-cards/)
+
 #### 3rd Semester
 
 - [Machine Learning](https://github.com/pe-ia/machine-learning-topics)
