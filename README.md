@@ -10,6 +10,7 @@ I'm a developer who lives between Geneva and Copenhagen, currently studying **Da
 #### 4th Semester
 
 - [Data Visualisation and Data-driven Decision Making](https://quizlet.com/dk/1052343585/data-visualisation-and-data-driven-decision-making-flash-cards/)
+- [Natural Language Processing and Deep Learning](https://quizlet.com/dk/1056388951/nlp-key-terms-flash-cards/)
 
 #### 3rd Semester
 
