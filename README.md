@@ -3,7 +3,8 @@
 I'm a developer who lives between Geneva and Copenhagen, currently studying **Data Science** at the IT University of Copenhagen.
 
 ### 🌱 I’m currently working on
-- A product with my co-founder [Nicolas](https://github.com/niclejeune): [cheap.voyage](https://cheap.voyage)
+- A product with two co-founders: [cheap.voyage](https://cheap.voyage)
+- An AI agency with two co-founders: [cimalys.com](https://cimalys.com/)
 
 ### 📝 Course Notes
 
