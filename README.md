@@ -29,7 +29,7 @@ I'm a developer who lives between Geneva and Copenhagen, currently studying **Da
 ### 🛠️ Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=python,r,java,kotlin,js,ts,php)
+![Languages](https://skillicons.dev/icons?i=python,r,c,java,kotlin,js,ts,php)
 
 #### Frontend
 ![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,latex)
