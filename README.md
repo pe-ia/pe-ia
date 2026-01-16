@@ -8,6 +8,10 @@ I'm a developer who lives between Geneva and Copenhagen, currently studying **Da
 
 ### 📝 Course Notes
 
+#### 5th Semester
+
+- [Data Science in Production: MLOps and Software Engineering](https://quizlet.com/dk/1128747288/data-science-in-production-mlops-and-software-engineering-autumn-2025-flashcards/)
+
 #### 4th Semester
 
 - [Data Visualisation and Data-driven Decision Making](https://quizlet.com/dk/1052343585/data-visualisation-and-data-driven-decision-making-flash-cards/)
