@@ -2,9 +2,9 @@
 
 I'm a developer who lives between Geneva and Copenhagen, currently studying **Data Science** at the IT University of Copenhagen.
 
-### 🌱 I’m currently working on
-- A product with two co-founders: [cheap.voyage](https://cheap.voyage)
-- An AI agency with two co-founders: [cimalys.com](https://cimalys.com/)
+### 🌱 I’m currently working on two products with two co-founders
+- [cheap.voyage](https://cheap.voyage)
+- [reflina.com](https://reflina.com/)
 
 ### 🧩 Recent Experience
 - [AMT.ai](https://amt.ai) - **Data Science Intern (Sep-Oct 2025):** Automated matching between brands and creators using NLP and deep learning; improved semantic relevance beyond keyword overlap.
