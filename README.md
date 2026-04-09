@@ -8,7 +8,7 @@ I'm a developer who lives between Geneva and Copenhagen, currently studying **Da
 
 ### 🧩 Recent Experience
 - [AMT.ai](https://amt.ai) - **Data Science Intern (Sep-Oct 2025):** Automated matching between brands and creators using NLP and deep learning; improved semantic relevance beyond keyword overlap.
-- [WikiWarfare](https://wikiwarfare.com) - **Project (Jan 2026 - Present):** Forensic analysis of narrative risk in Wikipedia articles for AI training safety; compares primary vs baseline topics; scores risk metrics and outputs structured, evidence-backed results.
+- [WikiWarfare](https://wikiwarfare.com) - **Project (Jan 2026):** Forensic analysis of narrative risk in Wikipedia articles for AI training safety; compares primary vs baseline topics; scores risk metrics and outputs structured, evidence-backed results.
 
 ### 📝 Course Notes
 
