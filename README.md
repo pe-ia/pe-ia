@@ -1,13 +1,28 @@
 # Hey, I'm Peter 👋
 
-I'm a developer who lives between Geneva and Copenhagen, currently studying **Data Science** at the IT University of Copenhagen.
+I'm a software engineer who lives between Geneva and Copenhagen. I build production AI systems for SMEs and operating teams: RAG and retrieval pipelines, agentic integrations, and workflow automation, delivered end-to-end in client environments.
 
-### 🌱 I’m currently working on two products with two co-founders
-- [cheap.voyage](https://cheap.voyage)
-- [reflina.com](https://reflina.com/)
+I hold a **BSc in Data Science** from the IT University of Copenhagen, and I'm now doing an **MSc in Computer Science and Engineering** at DTU, specialising in Artificial Intelligence and Algorithms.
 
-### 🧩 Recent Experience
-- [AMT.ai](https://amt.ai) - **Data Science Intern (Sep-Oct 2025):** Automated matching between brands and creators using NLP and deep learning; improved semantic relevance beyond keyword overlap.
+### 🧩 Experience
+
+- [Cimalys](https://cimalys.com) - **Software Engineer, AI Systems (Jul 2026 - present):** Building production AI systems for SMEs and operating teams: RAG and retrieval pipelines, agentic integrations, and workflow automation delivered end-to-end in client environments.
+- [IT University of Copenhagen](https://www.itu.dk) - **Teaching Assistant (Aug 2026 - present):** TA for Operating Systems and C, with ownership of the "syslab" lab covering C programming and dynamic analysis of programs (x86 assembly).
+- [KARL Irrigation](https://karlirrigation.com/) - **Thesis Researcher (Feb - Jun 2026):** Built a satellite-guided optimisation framework for hose reel irrigation, addressing a research gap in variable rate irrigation for single-sprinkler systems. The resulting speed profiles matched crop water targets more accurately than the baseline while using 9.7% less water. Thesis graded 12/12.
+- [cheap.voyage](https://cheap.voyage) - **Founder (Jan 2025 - Jun 2026):** An AI-powered flight and train ticket meta-search engine for backpackers and digital nomads.
+- [AMT.ai](https://amt.ai) - **Data Science Intern (Sep - Oct 2025):** Developed a novel LLM and embedding-based approach for matching creators with brands, improving matching speed and qualitative relevance over the existing workflow.
+
+### 🎤 Speaking
+
+I also have experience applying technology to sustainability and social-impact problems.
+
+- **TEDxYouth Speaker, Technology and Innovation (May 2018):** Spoke at TEDxYouth at the International School of Geneva (La Châtaigneraie), part of a programme built around the UN Sustainable Development Goals and the #StartUpSomethingThatMatters initiative. I developed the concept and virtual prototype for a dog-sized autonomous delivery robot based on an NVIDIA Jetson board, letting elderly or mobility-limited people order groceries, medicine, and other essentials from nearby shops and pharmacies for same-hour delivery, at a time when on-demand supermarket delivery was still uncommon. The work covered autonomous navigation, practical hardware constraints, accessibility, and how robotics could improve local last-mile services.
+
+### 🎓 Education
+
+- **MSc Computer Science and Engineering, DTU (Aug 2026 - Jun 2028):** Specialisation in Artificial Intelligence and Algorithms, covering automated reasoning, computationally hard problems, multi-agent systems, logical theories for uncertainty and learning, and algorithms for massive data sets.
+- **BSc Data Science, IT University of Copenhagen (Aug 2023 - Jul 2026)**
+- **International Baccalaureate Diploma, International School of Geneva (Sep 2020 - May 2022):** Higher Level in Computer Science, Physics, and Mathematics; Standard Level in English Language & Literature, French, and History.
 
 ### 📝 Course Notes
 
@@ -32,6 +47,8 @@ I'm a developer who lives between Geneva and Copenhagen, currently studying **Da
 ### 📫 How to reach me
 - Email: [peter@gvacph.dev](mailto:peter@gvacph.dev)
 - Discord: `@the_thethe_the`
+- LinkedIn: [peter-iatsenia](https://www.linkedin.com/in/peter-iatsenia-215672322)
+- Website: [gvacph.dev](https://gvacph.dev)
 
 ### 🛠️ Skills
 
