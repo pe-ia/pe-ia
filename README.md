@@ -14,7 +14,9 @@ I hold a **BSc in Data Science** from the IT University of Copenhagen, and I'm n
 
 ### 🎤 Speaking
 
-I also have experience applying technology to sustainability and social-impact problems.
+I also have experience pitching startups, as well as applying technology to sustainability and social-impact problems.
+
+- **Go-to-Market Pitch, Digital Tech Summit (Nov 2025):** Pitched [cheap.voyage](https://cheap.voyage) in the Go-to-Market category at Digital Tech Summit on 5 November 2025, together with my co-founders Nicolas Lejeune and Oscar Rode. We presented our AI-powered flight and train ticket meta-search engine for backpackers and digital nomads, along with our go-to-market strategy: target customers, acquisition channels, and plan for growth.
 
 - **TEDxYouth Speaker, Technology and Innovation (May 2018):** Spoke at TEDxYouth at the International School of Geneva (La Châtaigneraie), part of a programme built around the UN Sustainable Development Goals and the #StartUpSomethingThatMatters initiative. I developed the concept and virtual prototype for a dog-sized autonomous delivery robot based on an NVIDIA Jetson board, letting elderly or mobility-limited people order groceries, medicine, and other essentials from nearby shops and pharmacies for same-hour delivery, at a time when on-demand supermarket delivery was still uncommon. The work covered autonomous navigation, practical hardware constraints, accessibility, and how robotics could improve local last-mile services.
 
