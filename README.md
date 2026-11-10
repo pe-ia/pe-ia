@@ -1,12 +1,12 @@
 # Hey, I'm Peter 👋
 
-I'm a software engineer who lives between Geneva and Copenhagen. I build production AI systems for SMEs and operating teams: RAG and retrieval pipelines, agentic integrations, and workflow automation, delivered end-to-end in client environments.
+I'm a Managing Consultant at Cimalys, based between Geneva and Copenhagen. I design and deliver production AI systems end to end, specialising in agentic workflows, RAG, and automation, along with the software and infrastructure they run in. Alongside engineering, I help grow the business by bringing in new clients, looking after those relationships, and leading projects through to delivery.
 
 I hold a **BSc in Data Science** from the IT University of Copenhagen, and I'm now doing an **MSc in Computer Science and Engineering** at DTU, specialising in Artificial Intelligence and Algorithms.
 
 ### 🧩 Experience
 
-- [Cimalys](https://cimalys.com) - **Software Engineer, AI Systems (Jul 2026 - present):** Building production AI systems for SMEs and operating teams: RAG and retrieval pipelines, agentic integrations, and workflow automation delivered end-to-end in client environments.
+- [Cimalys](https://cimalys.com) - **Managing Consultant (Jul 2026 - present):** Leading client projects end to end, from first conversation and scoping to architecture and delivery. I build agentic AI systems and integrate them into the products clients use, from websites to native iOS and Android apps in Swift and Kotlin, and set up the servers, databases and deployments they run on, owning the whole stack along with the client relationship. I also grow the company, bringing in new clients and turning first projects into lasting partnerships.
 - [IT University of Copenhagen](https://www.itu.dk) - **Teaching Assistant (Aug 2026 - present):** TA for Operating Systems and C, with ownership of the "syslab" lab covering C programming and dynamic analysis of programs (x86 assembly).
 - [KARL Irrigation](https://karlirrigation.com/) - **Thesis Researcher (Feb - Jun 2026):** Built a satellite-guided optimisation framework for hose reel irrigation, addressing a research gap in variable rate irrigation for single-sprinkler systems. The resulting speed profiles matched crop water targets more accurately than the baseline while using 9.7% less water. Thesis graded 12/12.
 - [cheap.voyage](https://cheap.voyage) - **Founder (Jan 2025 - Jun 2026):** An AI-powered flight and train ticket meta-search engine for backpackers and digital nomads.
